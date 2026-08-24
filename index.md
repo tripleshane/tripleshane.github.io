@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is D.K .
+# Welcome to My Portfolio Hello! My name is tripleshane .
 ## Projects
 - Project 1: DNE
 - Project 2: DNE
