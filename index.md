@@ -16,7 +16,6 @@ Click here to go to my notebook → [Notebook](notebook.md)
 Project 2 Hunters(VIBECODED):  
 [View the Java source code](Hunters.java)
   
-[Download the Java source code](Hunters.java)
 
 Project 3.
 public class FirstArray extends ConsoleProgram
