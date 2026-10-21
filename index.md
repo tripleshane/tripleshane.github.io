@@ -1,4 +1,8 @@
 # Welcome to My Portfolio Hello! My name is tripleshane .
+## About Me
+Click here to learn more → [About Me](about.md)
+## Notebook
+Click here to go to my notebook → [Notebook](notebook.md)
 ## Projects
 - Project 1: Minecraft Coding?
   "what I have"([
@@ -2834,7 +2838,4 @@ public class FirstArray extends ConsoleProgram
     }
 }
 
-## About Me
-Click here to learn more → [About Me](about.md)
-## Notebook
-Click here to go to my notebook → [Notebook](notebook.md)
+
